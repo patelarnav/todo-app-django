@@ -10,3 +10,13 @@
 5.Run the Django server by running `python3 manage.py runserver`.
 
 ### Usage
+
+Once the server is running, multiple users can login, create, update and delete their to-do tasks.
+
+### Contribute
+
+You are open to contribute
+
+### Contact
+
+Drop your queries and suggestions at patelarnav121@gmail.com
